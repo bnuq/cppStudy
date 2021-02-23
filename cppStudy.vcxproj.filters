@@ -9,8 +9,18 @@
       <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
       <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
     </Filter>
-    <Filter Include="Example Files">
-      <UniqueIdentifier>{5a89b7b5-44d3-4795-87a4-8a214d43e65d}</UniqueIdentifier>
-    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="cppForExpert\c10_code\001_BaseAndDerived\Base.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="cppForExpert\c10_code\001_BaseAndDerived\Derived.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="cppForExpert\c10_code\001_BaseAndDerived\Test.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
