@@ -11,16 +11,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="cppForExpert\c10_code\001_BaseAndDerived\Base.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="cppForExpert\c10_code\001_BaseAndDerived\Derived.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="cppForExpert\c10_code\001_BaseAndDerived\Test.cpp">
+    <ClCompile Include="ProfessionalCpp_Undone\c10_code\00_BaseAndDerived2\Base.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ProfessionalCpp_Undone\c10_code\00_BaseAndDerived2\Derived.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ProfessionalCpp_Undone\c10_code\00_BaseAndDerived2\overrideTest.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ProfessionalCpp_Undone\c10_code\00_BaseAndDerived2\Base.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ProfessionalCpp_Undone\c10_code\00_BaseAndDerived2\Derived.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

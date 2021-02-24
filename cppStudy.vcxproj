@@ -19,11 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="cppForExpert\c10_code\001_BaseAndDerived\Base.h" />
-    <ClInclude Include="cppForExpert\c10_code\001_BaseAndDerived\Derived.h" />
+    <ClCompile Include="ProfessionalCpp_Undone\c10_code\00_BaseAndDerived2\Base.cpp" />
+    <ClCompile Include="ProfessionalCpp_Undone\c10_code\00_BaseAndDerived2\Derived.cpp" />
+    <ClCompile Include="ProfessionalCpp_Undone\c10_code\00_BaseAndDerived2\overrideTest.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="cppForExpert\c10_code\001_BaseAndDerived\Test.cpp" />
+    <ClInclude Include="ProfessionalCpp_Undone\c10_code\00_BaseAndDerived2\Base.h" />
+    <ClInclude Include="ProfessionalCpp_Undone\c10_code\00_BaseAndDerived2\Derived.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
