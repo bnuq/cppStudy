@@ -10,20 +10,4 @@
       <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
     </Filter>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="ProfessionalCpp_Undone\c10_code\01_WeatherPrediction\MyWeatherPrediction.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ProfessionalCpp_Undone\c10_code\01_WeatherPrediction\WeatherPrediction.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="ProfessionalCpp_Undone\c10_code\01_WeatherPrediction\MyWeatherPrediction.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="ProfessionalCpp_Undone\c10_code\01_WeatherPrediction\WeatherPrediction.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-  </ItemGroup>
 </Project>

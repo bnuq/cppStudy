@@ -18,14 +18,6 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="ProfessionalCpp_Undone\c10_code\01_WeatherPrediction\MyWeatherPrediction.cpp" />
-    <ClCompile Include="ProfessionalCpp_Undone\c10_code\01_WeatherPrediction\WeatherPrediction.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="ProfessionalCpp_Undone\c10_code\01_WeatherPrediction\MyWeatherPrediction.h" />
-    <ClInclude Include="ProfessionalCpp_Undone\c10_code\01_WeatherPrediction\WeatherPrediction.h" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>

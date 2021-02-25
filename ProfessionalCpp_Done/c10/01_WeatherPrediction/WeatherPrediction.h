@@ -5,9 +5,12 @@
 /* 코드 재사용의 관점에서 상속을 이용하는 방법 */
 
 
+/*  WeatherPrediction 클래스 = 외부에서 제공되는 서드파티 클래스 */
+
 
 // 현재 온도, 목성과 화성 사이의 거리를 기반으로 날씨를 예측하는 검증된 최첨단 기술을 구현한다.
 // 이런 값이 제공되지 않아도 날씨를 예측할 수 있지만 정확도는 99%에 불과하다.
+// 파생 클래스에서 메서드 오버라이딩을 할 것이라 예상하기 때문에 모든 메서드를 virtual 로 선언했다.
 class WeatherPrediction
 {
 public:
@@ -35,6 +38,7 @@ public:
 	virtual std::string getTemperature() const;
 
 private:
+	// 현재 온도를 화씨로만 제공
 	int mCurrentTempFahrenheit;
 	int mDistanceFromMars;
 };
