@@ -16,4 +16,5 @@ int main()
 	/* Base 레퍼런스가 Base 클래스의 someMethod() 를 호출하려 했고, 
 	otherDerived 클래스에는 Base 클래스의 someMethod() 를 오버라이드한 메서드가 없으므로,
 	Base 레퍼런스는 Base 버전의 someMethod() 를 호출하게 된 것. */
+
 }

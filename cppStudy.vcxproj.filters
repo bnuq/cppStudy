@@ -11,21 +11,18 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ProfessionalCpp_Undone\c10_code\00_BaseAndDerived2\Base.cpp">
+    <ClCompile Include="ProfessionalCpp_Undone\c10_code\01_WeatherPrediction\MyWeatherPrediction.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ProfessionalCpp_Undone\c10_code\00_BaseAndDerived2\Derived.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ProfessionalCpp_Undone\c10_code\00_BaseAndDerived2\overrideTest.cpp">
+    <ClCompile Include="ProfessionalCpp_Undone\c10_code\01_WeatherPrediction\WeatherPrediction.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ProfessionalCpp_Undone\c10_code\00_BaseAndDerived2\Base.h">
+    <ClInclude Include="ProfessionalCpp_Undone\c10_code\01_WeatherPrediction\MyWeatherPrediction.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="ProfessionalCpp_Undone\c10_code\00_BaseAndDerived2\Derived.h">
+    <ClInclude Include="ProfessionalCpp_Undone\c10_code\01_WeatherPrediction\WeatherPrediction.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

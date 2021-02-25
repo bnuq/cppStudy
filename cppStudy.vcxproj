@@ -19,13 +19,12 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ProfessionalCpp_Undone\c10_code\00_BaseAndDerived2\Base.cpp" />
-    <ClCompile Include="ProfessionalCpp_Undone\c10_code\00_BaseAndDerived2\Derived.cpp" />
-    <ClCompile Include="ProfessionalCpp_Undone\c10_code\00_BaseAndDerived2\overrideTest.cpp" />
+    <ClCompile Include="ProfessionalCpp_Undone\c10_code\01_WeatherPrediction\MyWeatherPrediction.cpp" />
+    <ClCompile Include="ProfessionalCpp_Undone\c10_code\01_WeatherPrediction\WeatherPrediction.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ProfessionalCpp_Undone\c10_code\00_BaseAndDerived2\Base.h" />
-    <ClInclude Include="ProfessionalCpp_Undone\c10_code\00_BaseAndDerived2\Derived.h" />
+    <ClInclude Include="ProfessionalCpp_Undone\c10_code\01_WeatherPrediction\MyWeatherPrediction.h" />
+    <ClInclude Include="ProfessionalCpp_Undone\c10_code\01_WeatherPrediction\WeatherPrediction.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
